@@ -1,0 +1,10 @@
+{
+  "_id": "recipe_id",
+  "title": "Recipe Title",
+  "instructions": "Step-by-step instructions...",
+  "category": "Main Course",
+  "ingredients": [
+    { "name": "Ingredient 1", "quantity": "1 cup" },
+    { "name": "Ingredient 2", "quantity": "2 tablespoons" }
+  ]
+}
